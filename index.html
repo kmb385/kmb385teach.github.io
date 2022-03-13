@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <script src="https://unpkg.com/launchdarkly-js-client-sdk@2.18.1/dist/ldclient.min.js"></script>
+  </head>
+  <body>
+    <h1>Hello World!</h1>
+    <p>
+      My first feature flag is <b><span id="flag"></span></b>
+    </p>      
+  </body>
+  <script>
+    // User is anonymous, but will be uniquely identified
+    // so that subsequent visits obtain the same flag variation
+    var user = { anonymous: true };
+    // Obtain a client-side ID from https://app.launchdarkly.com/settings/projects
+    var ldclient = window.LDClient.initialize("622e4a9b54271a1484dab55c", user);
+    
+    // Wait for client to initialize, before checking flag variations
+    ldclient.on("ready", function() {
+      document.getElementById("flag").innerHTML = ldclient.variation("course-flag", false);      
+    });
+    
+    // Listen for changes to the flag. Update in realtime when it changes.
+    ldclient.on("change:course-flag", function(newVal, prevVal) {
+      document.getElementById("flag").innerHTML = newVal;
+    });
+
+  </script>
+</html>
