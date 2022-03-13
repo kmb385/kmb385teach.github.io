@@ -11,20 +11,19 @@
 
 
   <script>
-    // User is anonymous, but will be uniquely identified
-    // so that subsequent visits obtain the same flag variation
     var user = { anonymous: true };
-    // Obtain a client-side ID from https://app.launchdarkly.com/settings/projects
     var ldclient = window.LDClient.initialize("622e4a9b54271a1484dab55c", user);
     
     // Wait for client to initialize, before checking flag variations
     ldclient.on("ready", function() {
-      document.getElementById("flag").innerHTML = ldclient.variation("course-flag", false);      
+      document.getElementById("flag").innerHTML = ldclient.variation("course-flag", false);
+      alert("checked");
     });
     
     // Listen for changes to the flag. Update in realtime when it changes.
     ldclient.on("change:course-flag", function(newVal, prevVal) {
       document.getElementById("flag").innerHTML = newVal;
+      alert("new value");
     });
 
   </script>
