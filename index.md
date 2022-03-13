@@ -11,6 +11,7 @@
 
 
   <script>
+    alert("here");
     var user = { anonymous: true };
     var ldclient = window.LDClient.initialize("622e4a9b54271a1484dab55c", user);
     
