@@ -9,3 +9,18 @@
 <div id="preview">
   <div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="640" height="360" src="https://www.linkedin.com/learning/embed/learning-java-collections/java-collections-framework?autoplay=false&claim=AQHEPSreCZq14QAAAX94f4zqA9vbAt9m447YjzLqhz_Cj12O_950JqRT879XBBMw7Ao41aP6OLUt5Z_YtBqmQgX9iCDhXLtx1TNqwjkE1PYfyHohlBQGa6TeIPBdO-zL9T-vs28SkQgTLCiSv5aOeRIg4aJVQnJAV6m-RgPHU-EhwDReg1_gGjcX0VS5sdjc5ImWzR4VkFPu0_cMLZ_xqgsKEc58i9ySsc2kkYiLddEMpPHtT2mYQkyhevRr8ne-SHtx2P4zdH630ojV6zsSLrkw-5ADTaxHCxhPIKFM83irYLeN9ctALhHcD3bmLQtN6uUn7378xmgMPaMP_7jxlDc2Aw74cUec3flZ8JDp0U49iIliG72RysSRaEqfl1Urhyp7hBs_4_uboukNRPxQf6UiWyCDkatspcwAhrWZWYSP7Dy_ZEE2vFFGku_WKCG0MG7bo1Y7EIYuBMHKgrjtCGVM3goCLsudIdsDcvxhK3WRF2efJeX3sBlyxxW3m6nxbOejqVZxFl5K_4a73ZsCaZtpKbH2irA90PFBvcPbSSUCbC-gjZ8G1ExwhHtW5XklnyTHMJUg7j79-IesbF34moW1r5JWLGY3KJqRdfcds2PgExrxoBmxuoiysZ3QccRQu77yDDQBQXej7IvmVvV5mj-kHplXEPAteSAoduUE0-DSpeHpSxQnUNC7OW9hajH8AHmWISVrdJaAX1awL9MXhomKT3HxrQ7CUF3RXv0AfqSq4iY&lipi=urn%3Ali%3Apage%3Ad_learning_content%3BCGWgGQ8ITHaQLe0MM%2BkZXg%3D%3D&licu" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" frameborder="0" style="position:absolute;width:100%;height:100%;left:0"></iframe></div><p><strong><a href="https://www.linkedin.com/learning/learning-java-collections/java-collections-framework?trk=embed_lil">Java collections framework</a></strong> from <strong><a href="https://www.linkedin.com/learning/learning-java-collections?trk=embed_lil">Learning Java Collections</a></strong> by <strong><a href="https://www.linkedin.com/learning/instructors/kevin-bowersox?trk=embed_lil">Kevin Bowersox</a></strong></p>
 </div>
+
+<h2>Additional Courses by Kevin Bowersox</h2>
+
+<ul>
+  <li><a href="https://www.linkedin.com/learning/gitops-foundations">GitOps Foundations</a></li>
+  <li><a href="https://www.linkedin.com/learning/microservices-security">Microservices Security</a></li>
+  <li><a href="https://www.linkedin.com/learning/spring-spring-mvc">Spring: Spring MVC</a></li>
+  <li><a href="https://www.linkedin.com/learning/building-apis-with-spring">Building APIs with Spring</a></li>
+  <li><a href="https://www.linkedin.com/learning/spring-boot-2-0-essential-training">Spring Boot 2.0 Essential Training</a></li>
+  <li><a href="https://www.linkedin.com/learning/spring-spring-data-2">Spring: Spring Data 2</a></li>
+  <li><a href="https://www.linkedin.com/learning/spring-spring-cloud">Spring: Spring Cloud</a></li>
+  <li><a href="https://www.linkedin.com/learning/learning-spring-with-spring-boot">Learning Spring with Spring Boot</a></li>
+  <li><a href="https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot">Advanced Spring: Effective Integration Testing with Spring Boot</a></li>
+  <li><a href="https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture">Java EE: Design Patterns and Architecture</a></li>
+</ul>
